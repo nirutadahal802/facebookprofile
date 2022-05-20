@@ -1,0 +1,192 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+.main{
+	height: 650px;
+	width: 350px;
+	background: rgb(20, 18, 18);
+	margin-left: 500px;
+	margin-top: 35px;
+	border-radius: 8px;
+}
+.icons{
+	height: 26px;
+	width: 400px;
+	color: white;
+}
+.icons font{
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.icons font i{
+	width: 10px;
+	color: white;
+	margin-top: 3px;
+	margin-left: 3px;
+}
+.coverpic{
+	height: 200px;
+	width: 100%;
+}
+.coverpic img{
+	height: 200px;
+	width: 100%;
+}
+.profilepic{
+	height: 300px;
+	width: 300px;
+}
+.profilepic img{
+	height: 150px;
+	width: 150px;
+	border-radius: 500px;
+	margin-top: -75px;
+	margin-left: 120px;
+}
+.profilepic h3{
+	margin-left: 120px;
+	margin-top: 5px;
+}
+.cpicon{
+	height: 50px;
+	width: 50px;
+	margin-top: -330px;
+	margin-left: 320px;
+
+}
+.cpicon i{
+	color: white;
+}
+.ppicon{
+	height: 70px;
+	width: 70px;
+	margin-left: 255px;
+	align-content: center;
+	justify-content: center;
+}
+.ppicon i{
+	height: 50px;
+	width: 50px;
+	color: white;
+}
+.btn{
+	height: 50px;
+	width: 100%;
+	margin-top: 20px;
+	font-size: 14px;
+	text-align: center;
+}
+.btn .add{
+	height: 20px;
+	width: 30%;
+	background: rgb(0, 162, 253);
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	border-radius: 2px;
+	border-width: 2px;
+	border-color: rgb(5, 8, 8);
+}
+.btn .add a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	margin-left: 6px;
+	margin-top: 4px;
+} 
+.btn .edit{
+	height: 20px;
+	width: 30%;
+	float: right;
+	margin-top: 10px;
+	background: rgb(106, 99, 99);
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-radius: 2px;
+	background: rgb(106, 99, 99);
+	margin-right: 25px;
+}
+.btn .edit a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	margin-left: 6px;
+	margin-top: 4px;
+} 
+.btn .more{
+	height: 20px;
+	width: 20%;
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	border-radius: 2px;
+	background: rgb(106, 99, 99);
+	margin-bottom: 3px;
+}
+.btn .more a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	margin-top: 6px;
+} 
+.options{
+	height: auto;
+	width: 100%;
+	color: white;
+}
+.options i{
+	color: rgb(146, 135, 135);
+	margin-left: 10px;
+}
+.status{
+	margin-top: 6px;
+}
+.followed{
+	margin-top: 6px;
+}
+.more{
+	height: 20px;
+	width: 20px;
+	background: rgb(146, 135, 135);
+	border-radius: 20px;
+	margin-top: 6px;
+	margin-left: 10px;
+	text-align: center;
+}
+.feature{
+	height: 135px;
+	width: 100%;
+	margin-top: 8px;
+}
+.feature .fig1{
+	height: 125px;
+	width: 20%;
+	margin-left: 10px;
+	background: white;
+	border-radius: 2px;
+	float: left;
+}
+.feature .fig2{
+	height: 125px;
+	width: 20%;
+	background: white;
+	border-radius: 2px;
+	float: right;
+	margin-right: 175px;
+}
+.frn{
+	 margin-left: 10px;
+}
+.frn a{
+	text-decoration: none;
+	float: right;
+	margin-right: 10px;
+	color: lightblue;
+}
